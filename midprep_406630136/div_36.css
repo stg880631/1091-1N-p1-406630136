@@ -1,0 +1,101 @@
+.divdemo {
+  margin-top: 100px;
+}
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.divdemo #container {
+  width: 100%;
+  height: 600px;
+}
+.divdemo #topbg {
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-end;
+  height: 100px;
+  background-color: rgb(41, 123, 119);
+  padding: 10px;
+}
+.divdemo #logo {
+  width: 30%;
+  height: 80px;
+  background-color: rgb(230, 193, 152);
+  text-align: center;
+  margin-right: 10px;
+}
+.divdemo #header {
+  width: 70%;
+  height: 80px;
+  background-color: rgb(218, 135, 116);
+  margin: 10px, 10px, 10px, 10px;
+  text-align: center;
+}
+.divdemo #midbg {
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-end;
+  height: 700px;
+  background-color: rgb(3, 28, 26);
+  padding: 10px;
+}
+.divdemo #article {
+  width: 30%;
+  height: 680px;
+  background-color: rgb(186, 140, 223);
+  text-align: center;
+  margin-right: 10px;
+}
+.divdemo #nav {
+  width: 80%;
+  height: 650px;
+  background-color: rgb(46, 145, 199);
+  text-align: center;
+  margin-right: 5px;
+  margin-left: 25px;
+}
+.divdemo #aside {
+  width: 70%;
+  height: 680px;
+  background-color: rgb(138, 230, 179);
+  text-align: center;
+  margin-right: 10px;
+}
+.divdemo #section {
+  width: 90%;
+  height: 650px;
+  background-color: rgb(131, 170, 59);
+  text-align: center;
+  margin-left: 30px;
+}
+.divdemo #display {
+  width: 80%;
+  height: 400px;
+  background-color: rgb(197, 192, 178);
+  text-align: center;
+  margin-left: 60px;
+  margin-bottom: 20px;
+}
+.divdemo #imgbg {
+  background-color: pink;
+  width: 85%;
+  height: 150px;
+  display: flex;
+  margin-left: 45px;
+  flex-direction: row;
+}
+.divdemo #imgbg img {
+  width: 15%;
+  height: 100px;
+  margin-top: 30px;
+  margin-left: 15px;
+}
+.divdemo #footer {
+  text-align: center;
+  background-color: brown;
+  width: 100%;
+  height: 100px;
+}

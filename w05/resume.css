@@ -1,0 +1,53 @@
+#resume-section .basic{
+    display: flex;
+    writing-mode: vertical-lr;
+}
+.Resume{    
+    text-align: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color:blue
+}
+.myclass{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-align: center;
+}
+#resume-section .company{
+    background-color: rgb(12, 106, 128);
+}
+#resume-section .position{
+    background-color: hotpink;
+
+}
+#resume-section .data{
+    background-color: indianred;
+}
+#resume-section .datatitle{
+    background-color: rgb(174, 92, 233);
+}
+#resume-section .persondata{
+    background-color: khaki;
+}
+#resume-section .pastcompany{
+    background-color: lightcoral;
+}
+#resume-section .pastcompanydata{
+    background-color: lightsalmon;
+}
+#resume-section .worktimetitle{
+    background-color: magenta;
+}
+#resume-section .licencetitle{
+    background-color: rgb(88, 148, 85);
+}
+#resume-section .licence{
+    background-color: mediumspringgreen;
+}
+#resume-section .abilitytitle{
+    background-color: rgb(35, 142, 131);
+}
+#resume-section .ability{
+    background-color: rgb(21, 177, 194);
+}
+#resume-section .otherdata{
+    background-color: rgb(246, 255, 78);
+}

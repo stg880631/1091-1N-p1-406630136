@@ -1,0 +1,59 @@
+.profile {
+  margin-top: 400px;
+}
+.profile .container {
+  width: 40%;
+  height: 650px;
+  align-self: center;
+  margin: auto;
+  border: 2px solid purple;
+}
+.profile .head {
+  text-align: center;
+}
+.profile #card_image .img {
+  width: 100%;
+}
+.profile .container #card_icons {
+  display: flex;
+}
+.profile .container #card_icons .icon {
+  margin-left: 70px;
+  color: gray;
+}
+.profile .container #card_content {
+  margin-left: 20px;
+}
+.profile .container #card_content .txt {
+  color: gray;
+  margin-top:10px;
+}
+.profile .container #card_content .txt .txt-font {
+  color: black;
+  margin-left: 50px;
+}
+#expreince-section{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+#experience-section .exp1{
+  color: rgb(29, 80, 192);
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  text-align: center;
+}
+#experience-section .exp2{
+  color: rgb(138, 67, 20);
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  text-align: center;
+}
+#experience-section .experience1{
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  color: rgb(119, 59, 59);
+  font-size: medium;
+}
+#experience-section .experience2{
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  color: rgb(154, 162, 104);
+  font-size: medium;
+}

@@ -1,0 +1,33 @@
+.profile {
+  margin-top: 400px;
+}
+.profile .container {
+  width: 30%;
+  height: 600px;
+  align-self: center;
+  margin: auto;
+  border: 2px solid purple;
+}
+.profile .head {
+  text-align: center;
+}
+.profile #card_image .img {
+  width: 100%;
+}
+.profile .container #card_icons {
+  display: flex;
+}
+.profile .container #card_icons .icon {
+  margin-left: 60px;
+  color: gray;
+}
+.profile .container #card_content {
+  margin-left: 20px;
+}
+.profile .container #card_content .txt {
+  color: gray;
+}
+.profile .container #card_content .txt .txt-font {
+  color: black;
+  margin-left: 50px;
+}

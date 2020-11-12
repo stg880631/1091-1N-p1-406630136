@@ -1,0 +1,15 @@
+.myclass .num {
+  background-color: rgb(228, 122, 83);
+}
+.myclass .time {
+  background-color: rgb(255, 174, 160);
+}
+.myclass .week {
+  background-color: rgb(44, 158, 184);
+}
+.myclass .clas {
+  background-color: rgb(140, 242, 140);
+}
+.myclass .info {
+  background-color: gray;
+}
